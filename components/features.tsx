@@ -6,12 +6,12 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Bem-vindo à ShieldXtream</h2>
+            <h2 className="h2 mb-4">Bem-vindo à XtreamShield</h2>
             <p className="text-xl text-gray-400">Onde a segurança do seu serviço de streaming é a nossa prioridade. Nosso WAF (Web Application Firewall) é especificamente projetado para proteger plataformas de streaming contra uma ampla gama de ataques cibernéticos, incluindo DDoS, flood e bruteforce de listas.
             </p>
           </div>
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h4 className="h4 mb-2">Por Que Escolher ShieldXtream?</h4>
+            <h4 className="h4 mb-2">Por Que Escolher XtreamShield?</h4>
           </div>
           {/* Items */}
           <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
