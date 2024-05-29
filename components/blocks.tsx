@@ -6,8 +6,9 @@ export default function Blocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">Bem-vindo à ShieldXtream</h2>
+            <p className="text-xl text-gray-400">Onde a segurança do seu serviço de streaming é a nossa prioridade. Nosso WAF (Web Application Firewall) é especificamente projetado para proteger plataformas de streaming contra uma ampla gama de ataques cibernéticos, incluindo DDoS, flood e bruteforce de listas.
+</p>
           </div>
 
           {/* Items */}
