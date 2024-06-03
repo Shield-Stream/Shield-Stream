@@ -11,7 +11,7 @@ export default function Features() {
             </p>
           </div>
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h4 className="h4 mb-2">Por Que Escolher XtreamShield?</h4>
+            <h4 className="h3 mb-2">Por Que Escolher XtreamShield?</h4>
           </div>
           {/* Items */}
           <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
