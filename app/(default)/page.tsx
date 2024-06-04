@@ -29,7 +29,7 @@ import Testimonials from '@/components/testimonials'
 export default function Home() {
   return (
     <>
-      <GoogleAnalytics trackingId="AW-881899006/GDNtCJfEvrYZEP7rwqQD" />
+      <GoogleAnalytics trackingId="AW-881899006" analyticsId="AW-881899006/GDNtCJfEvrYZEP7rwqQD" />
       <Hero />
       <Features />
       <Zigzag />
