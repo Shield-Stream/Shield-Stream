@@ -28,7 +28,7 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">O seu escudo contra ataques online, projetado para a indústria de streaming.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://t.me/xtreamshield?text=Ol%C3%A1%21%20Gostaria%20de%20conhecer%20mais%20sobre%20a%20XtreamShield." target="_blank">Faça um Teste Gratuito de 7 dias</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="mailto:contact@xtreamshield.com?subject=Consulta&body=Ol%C3%A1%21%20Gostaria%20de%20conhecer%20mais%20sobre%20a%20XtreamShield." target="_blank">Faça um Teste Gratuito de 7 dias</a>
               </div>
             </div>
           </div>
