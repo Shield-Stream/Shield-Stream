@@ -21,6 +21,7 @@ export const metadata = {
 };
 
 import GoogleAnalytics from '@/app/pixels';
+import Tawk from '@/app/tawk';
 import Hero from '@/components/hero'
 import Features from '@/components/features'
 import Newsletter from '@/components/newsletter'
@@ -30,6 +31,7 @@ export default function Home() {
   return (
     <>
       <GoogleAnalytics trackingId="AW-881899006" analyticsId="AW-881899006/GDNtCJfEvrYZEP7rwqQD" />
+      <Tawk uri='https://embed.tawk.to/66632383981b6c56477aa29f/1hvpk5f1h'/>
       <Hero />
       <Features />
       <Zigzag />
