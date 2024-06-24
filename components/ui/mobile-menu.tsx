@@ -67,7 +67,7 @@ export default function MobileMenu() {
           </li>
           <li>
             <Link
-              href="mailto:contact@xtreamshield.com?subject=Consulta&body=Ol%C3%A1%21%20Gostaria%20de%20conhecer%20mais%20sobre%20a%20XtreamShield." target="_blank"
+              href="https://wa.link/n6obrx" target="_blank"
               className="font-medium w-full inline-flex items-center justify-center border border-transparent px-4 py-2 my-2 rounded-sm text-white bg-purple-600 hover:bg-purple-700 transition duration-150 ease-in-out" onClick={() => setMobileNavOpen(false)}
             >
               Contato

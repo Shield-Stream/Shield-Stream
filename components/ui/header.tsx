@@ -19,7 +19,7 @@ export default function Header() {
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link href="mailto:contact@xtreamshield.com?subject=Consulta&body=Ol%C3%A1%21%20Gostaria%20de%20conhecer%20mais%20sobre%20a%20XtreamShield." target="_blank" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                <Link href="https://wa.link/n6obrx" target="_blank" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
                   Contato
                 </Link>
               </li>
