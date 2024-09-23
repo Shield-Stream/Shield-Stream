@@ -19,8 +19,8 @@ export default function Header() {
             {/* Desktop sign in links */}
             <ul className="flex grow justify-end flex-wrap items-center">
               <li>
-                <Link href="https://wa.link/n6obrx" target="_blank" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
-                  Contato
+                <Link href="https://discord.gg/HANbnA9q" target="_blank" className="btn-sm text-white bg-purple-600 hover:bg-purple-700 ml-3">
+                  Contact
                 </Link>
               </li>
             </ul>

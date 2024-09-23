@@ -6,12 +6,12 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Bem-vindo à XtreamShield</h2>
-            <p className="text-xl text-gray-400">Onde a segurança do seu serviço de streaming é a nossa prioridade. Nosso WAF (Web Application Firewall) é especificamente projetado para proteger plataformas de streaming contra uma ampla gama de ataques cibernéticos, incluindo DDoS, flood e bruteforce de listas.
+            <h2 className="h2 mb-4">Welcome to XtreamShield</h2>
+            <p className="text-xl text-gray-400">Where the security of your streaming service is our priority. Our WAF (Web Application Firewall) is specifically designed to protect streaming platforms against a wide range of cyber attacks, including DDoS, flooding, and list bruteforce.
             </p>
           </div>
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h3 className="h3 mb-2">Por Que Escolher XtreamShield?</h3>
+            <h3 className="h3 mb-2">Why Choose XtreamShield?</h3>
           </div>
           {/* Items */}
           <div className="max-w-sm mx-auto grid gap-8 md:grid-cols-2 lg:grid-cols-3 lg:gap-16 items-start md:max-w-2xl lg:max-w-none" data-aos-id-blocks>
@@ -23,9 +23,9 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" d="M30 39.313l-4.18 2.197L27 34.628l-5-4.874 6.91-1.004L32 22.49l3.09 6.26L42 29.754l-3 2.924" strokeLinecap="square" strokeWidth="2" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M43 42h-9M43 37h-9" strokeLinecap="square" strokeWidth="2" />
               </svg>
-              <h4 className="h4 mb-2">Segurança Reforçada</h4>
+              <h4 className="h4 mb-2">Enhanced Security</h4>
               <p className="text-lg text-gray-400 text-center">
-                Blindagem robusta contra os ataques mais comuns e sofisticados que ameaçam serviços de streaming diariamente.
+                Robust shielding against the most common and sophisticated attacks that threaten streaming services daily.
               </p>
             </div>
 
@@ -36,9 +36,9 @@ export default function Features() {
                 <path className="stroke-current text-purple-100" strokeWidth="2" strokeLinecap="square" d="M21 23h22v18H21z" fill="none" fillRule="evenodd" />
                 <path className="stroke-current text-purple-300" d="M26 28h12M26 32h12M26 36h5" strokeWidth="2" strokeLinecap="square" />
               </svg>
-              <h4 className="h4 mb-2">Desempenho Otimizado</h4>
+              <h4 className="h4 mb-2">Optimized Performance</h4>
               <p className="text-lg text-gray-400 text-center">
-                Otimize a velocidade e eficiência do seu serviço com nosso sistema de cache avançado, assegurando uma experiência de usuário fluida e rápida, com disponibilidade constante, mesmo durante ataques.
+                Optimize the speed and efficiency of your service with our advanced caching system, ensuring a smooth and fast user experience, with constant availability even during attacks.
               </p>
             </div>
 
@@ -52,9 +52,9 @@ export default function Features() {
                   <circle className="stroke-current text-purple-100" cx="11" cy="11" r="11" />
                 </g>
               </svg>
-              <h4 className="h4 mb-2">Facilidade de Integração</h4>
+              <h4 className="h4 mb-2">Ease of Integration</h4>
               <p className="text-lg text-gray-400 text-center">
-                Nossa equipe de suporte está sempre disponível para ajudá-lo a configurar, manter e otimizar sua proteção.
+                Our support team is always available to help you set up, maintain, and optimize your protection.
               </p>
             </div>
 
@@ -63,5 +63,5 @@ export default function Features() {
         </div>
       </div>
     </section>
-  )
+  );
 }

@@ -12,9 +12,8 @@ export default function Zigzag() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            {/* <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-green-600 bg-green-200 rounded-full mb-4">Alcance metas que importam</div> */}
-            <h2 className="h2 mb-4">Um produto, várias soluções</h2>
-            <p className="text-xl text-gray-400">Não espere o próximo ataque para agir. Entre em contato conosco agora mesmo e descubra como a XtreamShield pode transformar a segurança do seu serviço de streaming com um poderoso sistema de WAF.</p>
+            <h2 className="h2 mb-4">One Product, Multiple Solutions</h2>
+            <p className="text-xl text-gray-400">Don’t wait for the next attack to act. Contact us now and discover how XtreamShield can transform the security of your streaming service with a powerful WAF system.</p>
           </div>
 
           {/* Items */}
@@ -30,13 +29,13 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <h3 className="h3 mb-3">XUI One</h3>
-                  <p className="text-xl text-gray-400 mb-4">Plataforma profissional projetada para serviços OTT (Over-The-Top) e IPTV, o XUI permite uma ampla gama de funcionalidades cruciais para a gestão e distribuição de conteúdo multimídia. A XtreamShield WAF é uma solução robusta e eficaz para proteger o seu sistema XUI.</p>
+                  <p className="text-xl text-gray-400 mb-4">A professional platform designed for OTT (Over-The-Top) and IPTV services, XUI allows a wide range of crucial functionalities for managing and distributing multimedia content. XtreamShield WAF is a robust and effective solution to protect your XUI system.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Proteção Personalizada para o XUI One</span>
+                      <span>Customized Protection for XUI One</span>
                     </li>
                   </ul>
                 </div>
@@ -53,13 +52,13 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-left">
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
                   <h3 className="h3 mb-3">Xtream UI</h3>
-                  <p className="text-xl text-gray-400 mb-4">Xtream UI permite que provedores de streaming de IPTV gerenciem seu próprio serviço de IPTV ou VOD e seu banco de dados de clientes. É a plataforma mais popular e utilizada para streaming de IPTV. Com a XtreamShield o seu sistema de IPTV terá toda estrutura de segurança necessária contra ataques cibernéticos.</p>
+                  <p className="text-xl text-gray-400 mb-4">Xtream UI allows IPTV streaming providers to manage their own IPTV or VOD service and their customer database. It is the most popular platform used for IPTV streaming. With XtreamShield, your IPTV system will have all the necessary security infrastructure against cyber attacks.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Proteção Personalizada para o Xtream UI</span>
+                      <span>Customized Protection for Xtream UI</span>
                     </li>
                   </ul>
                 </div>
@@ -76,13 +75,13 @@ export default function Zigzag() {
               <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6" data-aos="fade-right">
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
                   <h3 className="h3 mb-3">Streamcreed</h3>
-                  <p className="text-xl text-gray-400 mb-4">StreamCreed IPTV é uma plataforma que fornece soluções para o gerenciamento de serviços de streaming de TV pela internet. Com uma poderosa solução WAF, a XtreamShield é capaz de fazer toda a segurança desse sistema.</p>
+                  <p className="text-xl text-gray-400 mb-4">StreamCreed IPTV is a platform that provides solutions for managing internet TV streaming services. With a powerful WAF solution, XtreamShield ensures the security of this system.</p>
                   <ul className="text-lg text-gray-400 -mb-2">
                     <li className="flex items-center mb-2">
                       <svg className="w-3 h-3 fill-current text-green-500 mr-2 shrink-0" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
                         <path d="M10.28 2.28L3.989 8.575 1.695 6.28A1 1 0 00.28 7.695l3 3a1 1 0 001.414 0l7-7A1 1 0 0010.28 2.28z" />
                       </svg>
-                      <span>Proteção Personalizada para o Streamcreed</span>
+                      <span>Customized Protection for Streamcreed</span>
                     </li>
                   </ul>
                 </div>

@@ -24,11 +24,11 @@ export default function Hero() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h1 mb-4" data-aos="fade-up">Proteção Avançada para Streaming com XtreamShield</h1>
-            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">O seu escudo contra ataques online, projetado para a indústria de streaming.</p>
+            <h1 className="h1 mb-4" data-aos="fade-up">Advanced Streaming Protection with XtreamShield</h1>
+            <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Your shield against online attacks, designed for the streaming industry.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://wa.link/n6obrx" target="_blank">Faça um Teste Gratuito de 7 dias</a>
+                <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://discord.gg/HANbnA9q" target="_blank">Start Your 7-Day Free Trial</a>
               </div>
             </div>
           </div>
